@@ -1,0 +1,1 @@
+* xref:day1.adoc[Intro to Ansible]

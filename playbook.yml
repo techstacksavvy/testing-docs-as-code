@@ -1,0 +1,14 @@
+site:
+  title: Test Documentation
+  url: https://testdocs.example.com
+  start_page: test-docs::day1.adoc
+
+content:
+  sources:
+    - url: ./testing-docs-as-code-
+      branches: feature/day_1
+
+ui:
+  bundle:
+    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
+    snapshot: true
