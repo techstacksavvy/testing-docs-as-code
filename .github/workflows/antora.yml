@@ -24,4 +24,4 @@ jobs:
         run:  npm install -g @antora/cli @antora/site-generator-default
         
       - name: Build Antora Site
-        run:  antora playbook.yml
+        run:  npx antora playbook.yml
