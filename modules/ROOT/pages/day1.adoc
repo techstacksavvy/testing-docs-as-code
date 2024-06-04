@@ -1,26 +1,4 @@
 = An Introduction to Ansible
 
 == Introduction
-Ansible is an open-source IT automation tool that enables system administrators and developers to automate complex tasks, such as application deployment, configuration management, and continuous delivery. Known for its simplicity and agentless architecture, Ansible helps streamline operations and improve efficiency across diverse environments.
-
-== What is Ansible?
-Ansible was created to simplify the automation of IT tasks. Unlike traditional automation tools, Ansible uses a simple, human-readable language called YAML (Yet Another Markup Language) to describe automation jobs. This makes it accessible to a wide range of users, from beginners to experienced IT professionals.
-
-== Primary Use Cases
-1. *Configuration Management*: Ansible ensures that all systems are configured to a desired state, reducing configuration drift and maintaining consistency.
-2. *Application Deployment*: Automate the deployment process for applications, ensuring that updates and patches are applied uniformly across environments.
-3. *Orchestration*: Coordinate complex workflows that involve multiple systems and services, simplifying the management of dependencies and task sequencing.
-
-== Real-world Example
-One notable example of Ansible in action is its use by NASA. NASA utilized Ansible to automate the deployment and management of its web applications, which reduced manual intervention and increased operational efficiency. By leveraging Ansible's capabilities, NASA was able to streamline its processes and focus more on innovation and development.
-
-== Glossary of Essential Terms
-* *Playbook*: A file containing a series of tasks to be executed on managed nodes. Written in YAML, playbooks define the desired state of a system.
-* *Task*: A single action to be performed, such as installing a package or copying a file. Tasks are the building blocks of playbooks.
-* *Module*: A unit of code that performs a specific task in Ansible. Modules are executed by tasks and can be used to manage various aspects of systems.
-* *Inventory*: A list of managed nodes (hosts) that Ansible interacts with. Inventories can be static or dynamic, defining the systems to be automated.
-
-== Conclusion
-Ansible's powerful yet simple approach to automation makes it an invaluable tool for IT professionals. Whether you're managing a small network or a large-scale infrastructure, Ansible can help you achieve greater efficiency and consistency in your operations.
-
-By studying this introduction and glossary, beginners can gain a foundational understanding of Ansible and its core concepts, setting the stage for more advanced topics in the days to come.
+This is a test!
