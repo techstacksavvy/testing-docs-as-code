@@ -1,4 +1,4 @@
-= An Introduction to Ansible: Simplifying IT Automation
+= An Introduction to Ansible
 
 == Introduction
 Ansible is an open-source IT automation tool that enables system administrators and developers to automate complex tasks, such as application deployment, configuration management, and continuous delivery. Known for its simplicity and agentless architecture, Ansible helps streamline operations and improve efficiency across diverse environments.
